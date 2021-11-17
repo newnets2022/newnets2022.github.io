@@ -87,7 +87,9 @@ important {
 	border-bottom: 1px solid #DDD;
 }
 .header {
-	background: url(milano.jpg) repeat-x;
+	background: url(milano2.png);
+    background-repeat: no-repeat;
+    background-size: 800px 230px;
 }
 
 /* title */
